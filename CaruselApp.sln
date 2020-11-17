@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaruselApp.Android", "CaruselApp\CaruselApp.Android\CaruselApp.Android.csproj", "{5522E35B-667A-4D07-A1E8-2A431F12151D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaruselApp", "CaruselApp\CaruselApp\CaruselApp.csproj", "{912CB5B6-53C9-4CF6-883A-6F09399A5675}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18A16FD0-D8EA-4BA7-BAD2-9196BBB00A58}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5522E35B-667A-4D07-A1E8-2A431F12151D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912CB5B6-53C9-4CF6-883A-6F09399A5675}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E7E9AD-399C-4859-9E59-85DC018A852D}
+	EndGlobalSection
+EndGlobal
